@@ -15,6 +15,11 @@ public class miniCalculadora {
     double raizCuadrada (double numero){
         return Math.sqrt(numero);
     }
+    /**
+     * Este método es el de raíz uadrada
+     * @param numero variable de la cual se va a obtener el resultado de la raíz cuadrada.
+     * @return
+     */
     double valorAbsoluto (double numero){
         return Math.abs(numero);
     }
